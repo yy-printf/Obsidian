@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture2/Vectors(Lists).md",
+                "file": "cs106b/lecture2/Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors(Lists)"
+              "title": "Grid"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs106b/lecture2/Vectors(Lists).md",
+                "file": "cs106b/lecture2/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Vectors(Lists) 的反向链接列表"
+              "title": "Grid 的反向链接列表"
             }
           },
           {
@@ -182,9 +182,11 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "c6f411a37d74d661bb6344781f9d6eeb.jpg",
+    "cs106b/lecture2/Vectors(Lists).md",
+    "cs106b/lecture2/Grid.md",
     "36f993787eb161868f12806fcefece2f.jpg",
     "cs106b/lecture2/IO流.md",
-    "cs106b/lecture2/Vectors(Lists).md",
     "csapp/2.1/1.md",
     "Markdown 语法.md",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
@@ -218,7 +220,6 @@
     "栈",
     "数据结构.md",
     "数据结构",
-    "我的第二篇笔记.md",
     "未命名",
     "未命名 4.canvas",
     "未命名 3.canvas",

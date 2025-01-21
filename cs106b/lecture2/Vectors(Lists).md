@@ -10,3 +10,10 @@ name.insert(0,"Ed");
 可以通过索引的方式来找其中的数据
 ![[36f993787eb161868f12806fcefece2f.jpg]]
 上面是一些vector的基本用法
+
+```cpp
+for(string name :names){
+ cout << name << endl;
+}
+```
+用于将names中每个元素赋给name，然后打印
