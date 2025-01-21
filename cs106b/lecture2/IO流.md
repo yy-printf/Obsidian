@@ -1,4 +1,4 @@
-open a file;read each line ; close it
+open a file;read each line ; close it(行读取)
 ```cpp
 #include<fstream>
 ifstream input;

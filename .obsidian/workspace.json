@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csapp/2.1/1.md",
+                "file": "cs106b/lecture2/Vectors(Lists).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Vectors(Lists)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "csapp/2.1/1.md",
+                "file": "cs106b/lecture2/Vectors(Lists).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1 的反向链接列表"
+              "title": "Vectors(Lists) 的反向链接列表"
             }
           },
           {
@@ -182,12 +182,14 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "36f993787eb161868f12806fcefece2f.jpg",
+    "cs106b/lecture2/IO流.md",
+    "cs106b/lecture2/Vectors(Lists).md",
+    "csapp/2.1/1.md",
     "Markdown 语法.md",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "未命名.canvas",
-    "csapp/2.1/1.md",
     "desktop.ini",
-    "cs106b/lecture2/IO流.md",
     "csapp/2.1",
     "csapp",
     "cs106b/lecture1/strings.md",
@@ -217,7 +219,6 @@
     "数据结构.md",
     "数据结构",
     "我的第二篇笔记.md",
-    "我的第一篇笔记.md",
     "未命名",
     "未命名 4.canvas",
     "未命名 3.canvas",
