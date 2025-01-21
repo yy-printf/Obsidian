@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture2/Grid.md",
+                "file": "cs106b/assignment1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grid"
+              "title": "assignment1"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "df9c27a0971f542a",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs106b/lecture2/Grid.md",
+                "file": "cs106b/assignment1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Grid 的反向链接列表"
+              "title": "assignment1 的反向链接列表"
             }
           },
           {
@@ -182,9 +181,10 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "cs106b/lecture2/Grid.md",
+    "cs106b/assignment1.md",
     "c6f411a37d74d661bb6344781f9d6eeb.jpg",
     "cs106b/lecture2/Vectors(Lists).md",
-    "cs106b/lecture2/Grid.md",
     "36f993787eb161868f12806fcefece2f.jpg",
     "cs106b/lecture2/IO流.md",
     "csapp/2.1/1.md",
