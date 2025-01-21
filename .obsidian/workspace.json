@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df9c27a0971f542a",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,21 +182,21 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "Markdown 语法.md",
+    "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
+    "未命名.canvas",
+    "csapp/2.1/1.md",
     "desktop.ini",
     "cs106b/lecture2/IO流.md",
-    "csapp/2.1/1.md",
     "csapp/2.1",
     "csapp",
     "cs106b/lecture1/strings.md",
-    "Markdown 语法.md",
     "baidu.com.md",
     "数据结构/栈.md",
     "cs106b/lecture1/函数.md",
     "不用指针的址传递.md",
-    "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "数组实现栈.md",
     "字符串的加减.md",
-    "未命名.canvas",
     "链表字符串反转.md",
     "链表实现栈.md",
     "简单含参函数.md",
