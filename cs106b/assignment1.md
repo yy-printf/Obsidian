@@ -1,5 +1,6 @@
 1:对程序崩溃的描述：无法点击任何按键，电脑一直处于加载状态，过一段时间自动退出
-2:```
+2```
+```
 string onlyConnectize(string phrase) {
     /* TODO: The next few lines just exist to make sure you don't get compiler warning messages
      * when this function isn't implemented. Delete these lines, then implement this function.
@@ -16,4 +17,9 @@ string onlyConnectize(string phrase) {
     }
     return result;
     }
+    ```
 ```
+将辅音字母提取出来，并大写转换，
+几个要点
+- for（）结构
+- 字符串加减
