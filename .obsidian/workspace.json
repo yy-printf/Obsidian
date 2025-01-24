@@ -25,14 +25,12 @@
             "id": "5875027927be6530",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "cs106b/assignment1.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg"
               },
-              "icon": "lucide-file",
-              "title": "assignment1"
+              "icon": "lucide-image",
+              "title": "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646"
             }
           }
         ],
@@ -127,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs106b/assignment1.md",
+                "file": "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "assignment1 的出链列表"
+              "title": "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646 的出链列表"
             }
           },
           {
@@ -181,12 +179,12 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "cs106b/lecture1/strings.md",
+    "cs106b/assignment1.md",
     "cs106b/lecture2/Grid.md",
     "cs106b/lecture2/IO流.md",
     "cs106b/lecture2/Vectors(Lists).md",
-    "cs106b/assignment1.md",
     "字符串的加减.md",
-    "cs106b/lecture1/strings.md",
     "36f993787eb161868f12806fcefece2f.jpg",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "c6f411a37d74d661bb6344781f9d6eeb.jpg",
