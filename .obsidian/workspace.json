@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数组实现栈.md",
+                "file": "数据结构/栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数组实现栈"
+              "title": "栈"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数组实现栈.md",
+                "file": "数据结构/栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "数组实现栈 的出链列表"
+              "title": "栈 的出链列表"
             }
           },
           {
@@ -181,6 +181,8 @@
   },
   "active": "5875027927be6530",
   "lastOpenFiles": [
+    "af024be8b2b75948e84343d6c7c20262.jpg",
+    "数组实现栈.md",
     "数据结构/栈.md",
     "数据结构/队列.md",
     "cs106b/assignment1.md",
@@ -201,7 +203,6 @@
     "baidu.com.md",
     "cs106b/lecture1/函数.md",
     "不用指针的址传递.md",
-    "数组实现栈.md",
     "链表字符串反转.md",
     "链表实现栈.md",
     "简单含参函数.md",
