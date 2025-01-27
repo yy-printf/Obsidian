@@ -11,10 +11,14 @@
             "id": "4509698c2eb8e2b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/Catalan数.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Catalan数"
             }
           }
         ]
@@ -69,11 +73,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df9c27a0971f542a",
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据结构/Catalan数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Catalan数 的出链列表"
             }
           },
           {
@@ -145,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +169,8 @@
   },
   "active": "4509698c2eb8e2b5",
   "lastOpenFiles": [
+    "相关题.md",
+    "数据结构/Catalan数.md",
     "数据结构/栈.md",
     "af024be8b2b75948e84343d6c7c20262.jpg",
     "数组实现栈.md",
@@ -197,7 +207,6 @@
     "添加子文件.md",
     "数据结构/栈/数组.md",
     "数据结构/栈 1.md",
-    "栈/数组实现.md",
     "栈",
     "数据结构",
     "未命名",
