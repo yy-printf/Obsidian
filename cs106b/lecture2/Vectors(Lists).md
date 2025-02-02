@@ -17,3 +17,15 @@ for(string name :names){
 }
 ```
 用于将names中每个元素赋给name，然后打印
+- 嵌套语句：```
+vector<int> a {1};
+vector<int> b {2,3};
+vector<int> c {4,5,6};
+vector<vector<int>> d ;
+d.add(a);
+d.add(b);
+d.add(c);
+cout << vv <<endl;//{{1},{2,3},{4,5,6}}
+cout << vv[1][1] <<endl;//3
+```
+w

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/动态规划.md",
+                "file": "cs106b/lecture4/ADT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动态规划"
+              "title": "ADT"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df9c27a0971f542a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs106b/assignment1.md",
+                "file": "cs106b/lecture4/ADT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "assignment1 的反向链接列表"
+              "title": "ADT 的反向链接列表"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/动态规划.md",
+                "file": "cs106b/lecture4/ADT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动态规划 的出链列表"
+              "title": "ADT 的出链列表"
             }
           },
           {
@@ -145,13 +146,11 @@
               "title": "strings 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,11 @@
   },
   "active": "4509698c2eb8e2b5",
   "lastOpenFiles": [
-    "数据结构/Catalan数.md",
+    "cs106b/lecture2/Vectors(Lists).md",
+    "cs106b/lecture4/ADT.md",
     "算法/动态规划.md",
+    "cs106b/lecture4",
+    "数据结构/Catalan数.md",
     "算法",
     "相关题.md",
     "数据结构/栈.md",
@@ -180,7 +182,6 @@
     "cs106b/lecture2/Grid.md",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "cs106b/lecture1/strings.md",
-    "cs106b/lecture2/Vectors(Lists).md",
     "字符串的加减.md",
     "36f993787eb161868f12806fcefece2f.jpg",
     "c6f411a37d74d661bb6344781f9d6eeb.jpg",
@@ -205,9 +206,7 @@
     "数据结构/栈/数组实现.md",
     "数据结构/栈",
     "添加子文件.md",
-    "数据结构/栈/数组.md",
     "栈",
-    "数据结构",
     "未命名 4.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
