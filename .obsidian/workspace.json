@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/sets(集合).md",
+                "file": "数据结构/maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sets(集合)"
+              "title": "maps"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/sets(集合).md",
+                "file": "数据结构/maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "sets(集合) 的反向链接列表"
+              "title": "maps 的反向链接列表"
             }
           },
           {
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +194,14 @@
   },
   "active": "a32d614660472012",
   "lastOpenFiles": [
+    "SmartSelect_20250207_113647_IntentResolver.jpg",
+    "数据结构/sets(集合).md",
+    "数据结构/maps.md",
+    "tempFileForShare_20250207-111230.jpg",
     "c19cfc5d874bea263c67ca01675a381e.jpg",
     "数据结构/Catalan数.md",
     "数据结构/队列.md",
     "数据结构/栈.md",
-    "数据结构/sets(集合).md",
     "未命名.md",
     "cs106b/lecture4/ADT.md",
     "cs106b/lecture2/Vectors(Lists).md",
@@ -229,7 +233,6 @@
     "简单含参函数.md",
     "cs106b/lecture2",
     "cs106b/lecture1/point.md",
-    "cs106b/lecture1.md",
     "cs106b/lecture1",
     "cs106b",
     "数据结构/栈",

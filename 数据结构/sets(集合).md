@@ -18,4 +18,11 @@ data: 2025-02-05
 
 # 使用方法
 
-![[c19cfc5d874bea263c67ca01675a381e.jpg]]
+![[c19cfc5d874bea263c67ca01675a381e.jpg]]![[tempFileForShare_20250207-111230.jpg]]
+# 遍历方法
+```
+for(type name : collection){
+statements;
+}
+```
+不能使用 int i 的索引操作        
