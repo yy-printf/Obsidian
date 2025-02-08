@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5418a54a9bd8e25f",
+        "id": "97ccb8548e2653b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4509698c2eb8e2b5",
+            "id": "891d236150e6855d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs106b/lecture4/ADT.md",
+                "file": "数据结构/maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ADT 的反向链接列表"
+              "title": "maps 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs106b/lecture4/ADT.md",
+                "file": "数据结构/maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ADT 的出链列表"
+              "title": "maps 的出链列表"
             }
           },
           {
@@ -146,12 +146,12 @@
               "title": "strings 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,32 +165,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f286bde801d2ee4",
+  "active": "891d236150e6855d",
   "lastOpenFiles": [
-    "cs106b/lecture4/ADT.md",
-    "数据结构/maps.md",
-    "SmartSelect_20250207_113647_IntentResolver.jpg",
     "数据结构/sets(集合).md",
+    "36f993787eb161868f12806fcefece2f.jpg",
+    "cs106b/lecture2/Vectors(Lists).md",
+    "cs106b/assignment1.md",
+    "数据结构/maps.md",
+    "cs106b/lecture4/ADT.md",
+    "SmartSelect_20250207_113647_IntentResolver.jpg",
     "tempFileForShare_20250207-111230.jpg",
     "c19cfc5d874bea263c67ca01675a381e.jpg",
     "数据结构/Catalan数.md",
     "数据结构/队列.md",
     "数据结构/栈.md",
     "未命名.md",
-    "cs106b/lecture2/Vectors(Lists).md",
     "算法/动态规划.md",
     "cs106b/lecture4",
     "算法",
     "相关题.md",
     "af024be8b2b75948e84343d6c7c20262.jpg",
     "数组实现栈.md",
-    "cs106b/assignment1.md",
     "cs106b/lecture2/IO流.md",
     "cs106b/lecture2/Grid.md",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "cs106b/lecture1/strings.md",
     "字符串的加减.md",
-    "36f993787eb161868f12806fcefece2f.jpg",
     "c6f411a37d74d661bb6344781f9d6eeb.jpg",
     "csapp/2.1/1.md",
     "Markdown 语法.md",
