@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture4/ADT.md",
+                "file": "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADT"
+              "title": "backtracking algorithms(回溯算法）"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "763695828a85eef0",
   "lastOpenFiles": [
+    "cs106b/lecture9/exhaustive search(穷举搜索).md",
+    "cs106b/assignment1.md",
+    "cs106b/lecture4/ADT.md",
     "cs106b/lecture4/sets&map.md",
     "cs106b/lecture2/Vectors(Lists).md",
     "cs106b/lecture1/函数.md",
     "数据结构/maps.md",
     "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
-    "cs106b/lecture9/exhaustive search(穷举搜索).md",
-    "cs106b/assignment1.md",
     "数据结构/sets(集合).md",
     "cs106b/lecture9",
     "未命名 2.md",
@@ -182,7 +183,6 @@
     "cs106b/lecture8",
     "cs106b/lecture5/recursion.md",
     "cs106b/lecture5",
-    "cs106b/lecture4/ADT.md",
     "未命名 1.md",
     "36f993787eb161868f12806fcefece2f.jpg",
     "SmartSelect_20250207_113647_IntentResolver.jpg",
