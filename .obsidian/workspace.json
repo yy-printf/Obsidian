@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture2/Grid.md",
+                "file": "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grid"
+              "title": "backtracking algorithms(回溯算法）"
             }
           }
         ]
@@ -168,16 +168,17 @@
   },
   "active": "763695828a85eef0",
   "lastOpenFiles": [
+    "数据结构/sets(集合).md",
+    "cs106b/lecture4/sets&map.md",
+    "cs106b/lecture2/Grid.md",
     "cs106b/lecture5/recursion.md",
     "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
     "cs106b/lecture9/exhaustive search(穷举搜索).md",
     "cs106b/assignment1.md",
     "cs106b/lecture4/ADT.md",
-    "cs106b/lecture4/sets&map.md",
     "cs106b/lecture2/Vectors(Lists).md",
     "cs106b/lecture1/函数.md",
     "数据结构/maps.md",
-    "数据结构/sets(集合).md",
     "cs106b/lecture9",
     "未命名 2.md",
     "cs106b/lecture8/fractals and recursion（分形与递归）.md",
@@ -199,7 +200,6 @@
     "af024be8b2b75948e84343d6c7c20262.jpg",
     "数组实现栈.md",
     "cs106b/lecture2/IO流.md",
-    "cs106b/lecture2/Grid.md",
     "Screenshot_2025-01-14-22-45-00-31_149003a2d400f6adb210d7e357a3a646.jpg",
     "cs106b/lecture1/strings.md",
     "字符串的加减.md",
