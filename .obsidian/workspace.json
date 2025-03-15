@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture5/recursion.md",
-                "mode": "source",
+                "file": "cs106b/lecture2/Grid.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recursion"
+              "title": "Grid"
             }
           }
         ]
@@ -166,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f286bde801d2ee4",
+  "active": "763695828a85eef0",
   "lastOpenFiles": [
+    "cs106b/lecture5/recursion.md",
     "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
     "cs106b/lecture9/exhaustive search(穷举搜索).md",
     "cs106b/assignment1.md",
@@ -181,7 +182,6 @@
     "未命名 2.md",
     "cs106b/lecture8/fractals and recursion（分形与递归）.md",
     "cs106b/lecture8",
-    "cs106b/lecture5/recursion.md",
     "cs106b/lecture5",
     "未命名 1.md",
     "36f993787eb161868f12806fcefece2f.jpg",
