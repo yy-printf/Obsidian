@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Vectors(Lists)"
             }
+          },
+          {
+            "id": "7501fa8bf6c0f519",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "763695828a85eef0",
+  "active": "7501fa8bf6c0f519",
   "lastOpenFiles": [
     "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
     "数据结构/sets(集合).md",
