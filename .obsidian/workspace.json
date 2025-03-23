@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs106b/lecture2/Vectors(Lists).md",
-                "mode": "preview",
+                "file": "杂项.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors(Lists)"
-            }
-          },
-          {
-            "id": "7501fa8bf6c0f519",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "杂项"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df9c27a0971f542a",
@@ -179,8 +167,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7501fa8bf6c0f519",
+  "active": "763695828a85eef0",
   "lastOpenFiles": [
+    "cs106b/lecture2/Vectors(Lists).md",
+    "杂项.md",
     "cs106b/lecture9/backtracking algorithms(回溯算法）.md",
     "数据结构/sets(集合).md",
     "cs106b/lecture4/sets&map.md",
@@ -189,7 +179,6 @@
     "cs106b/lecture9/exhaustive search(穷举搜索).md",
     "cs106b/assignment1.md",
     "cs106b/lecture4/ADT.md",
-    "cs106b/lecture2/Vectors(Lists).md",
     "cs106b/lecture1/函数.md",
     "数据结构/maps.md",
     "cs106b/lecture9",
@@ -218,7 +207,6 @@
     "字符串的加减.md",
     "c6f411a37d74d661bb6344781f9d6eeb.jpg",
     "csapp/2.1/1.md",
-    "Markdown 语法.md",
     "未命名.canvas",
     "desktop.ini",
     "csapp/2.1",
